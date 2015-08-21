@@ -2,6 +2,7 @@
 *.elf
 *.lst
 *.lss
+*.sym
 *.eep
 *.hex
 *.bin
