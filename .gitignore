@@ -1,0 +1,14 @@
+*.[od]
+*.elf
+*.lst
+*.lss
+*.eep
+*.hex
+*.bin
+*.srec
+*.zip
+*.rar
+*.gz
+*.bz2
+*.pdf
+
